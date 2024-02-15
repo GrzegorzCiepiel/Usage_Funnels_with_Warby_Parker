@@ -1,24 +1,23 @@
 # Funnel analyse using SQL
 
-Warby Parker is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price.
+![image](https://github.com/GrzegorzCiepiel/Usage_Funnels_with_Warby_Parker/assets/135313652/159aab6e-546a-491f-a0d7-39eaad594082)
 
+Warby Parker is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price.
 
 As a customer You can complete the survey about your eyewear  preferencies and than the company sends you some glasses to try on. Then You can return them for free or keep them and pay. 
 For every pair of eyeglasses and sunglasses sold, a pair is distributed to smomeone in need. 
 
-![image](https://github.com/GrzegorzCiepiel/Usage_Funnels_with_Warby_Parker/assets/135313652/159aab6e-546a-491f-a0d7-39eaad594082)
-
 
 The company asked for answer a few questions related to the survey and the sales funnel:
 
-1.	What is the number of responses of each question in website survey?
-2.	Which question(s) of the survey have lower completion rates?
+**1.	What is the number of responses of each question in website survey?**
+**2.	Which question(s) of the survey have lower completion rates?**
 Warby Parker’s purchase funnel is:
 Take the Style Survey → Home Try-On → Purchase the Warby Parker’s purchase funnel is:
 Take the Style Quiz → Home Try-On → Purchase the Perfect Glasses
 50% of the users will get 3 pairs to try on
 50% of the users will get 5 pairs to try on
-3.	Are users who get more pairs to try on at home will be more likely to make a purchase?
+**3.	Are users who get more pairs to try on at home will be more likely to make a purchase?**
 
 ## What is the number of responses of each question in website survey?
 ## Which question(s) of the survey have lower completion rates?
@@ -50,4 +49,4 @@ glasses.
 ![image](https://github.com/GrzegorzCiepiel/Usage_Funnels_with_Warby_Parker/assets/135313652/c68602da-9a0e-478f-a54b-c72a7d43619d)
 
 As we can see sending five pairs of glasses seems to be
-significantly more effective.
+significantly more effective. It is exactly 46% more effective.
